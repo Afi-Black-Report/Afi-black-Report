@@ -5,14 +5,6 @@ import sys
 
 system("clear")
 
-while True:
-        Mjie = input ("plz type password 🔑> ")
-        if Mjie != "majazi":
-                print(Fore.RED+'PASSWORD incorrect')
-                continue
-        else:
-                break
-
 bnr = (Fore.LIGHTGREEN_EX+f"""
 
    "Afi_Black_Report"
