@@ -2,6 +2,7 @@
 
 
 #_دستورات_نصب_ابزار_های_لازم_برای_راه_اندازی_Screapt
+
 apt update
 
 apt updrade 
@@ -19,6 +20,7 @@ pip install colorama
 pkg install git
 
 #دستور_نصب_Screapt
+
 git clone https://github.com/Afi-Black-Report/Afi-black-Report
 
 cd Afi-Black-Report
